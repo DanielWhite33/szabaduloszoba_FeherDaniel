@@ -1,0 +1,16 @@
+body {
+    background-color: #a1dcf9; /* Háttérszín */
+  }
+  
+  .container {
+    max-width: 800px; /* A tartalom maximális szélessége */
+  }
+  
+  /* Kép formázása */
+  #szabaduloKep {
+    display: block;
+    margin: 0 auto; /* Kép középre igazítása */
+    max-width: 100%;
+    height: auto;
+  }
+  
